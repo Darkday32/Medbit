@@ -1,7 +1,7 @@
 {
   "name": "sassymed",
   "version": "1.0.0",
-  "private":true,
+  "private": true,
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -31,5 +31,4 @@
     "uuid": "^7.0.3",
     "validator": "^13.0.0"
   }
- 
 }
